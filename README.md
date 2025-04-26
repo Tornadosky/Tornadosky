@@ -45,4 +45,4 @@
 [<img src="https://raw.githubusercontent.com/Tornadosky/Tornadosky.github.io/main/doc/aws-certificate.png" width="100"/>](https://www.credly.com/badges/3e7efc4d-b104-4d90-a123-f19eebab1410/public_url)
 
 <h4>🤗 Hugging Face Agent Course Certificate</h4>
-<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/emJVwnJbP74QoDZPBrkeU.webp" width="200"/>
+<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/emJVwnJbP74QoDZPBrkeU.webp" width="100"/>
