@@ -40,8 +40,9 @@
 
 <h3>📜 Certifications</h3>
 
-<h4>🛡️ AWS Certified</h4>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3e7efc4d-b104-4d90-a123-f19eebab1410" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<h4>🛡️ AWS Certifications</h4>
+
+[<img src="https://raw.githubusercontent.com/Tornadosky/Tornadosky.github.io/main/doc/aws-certificate.png" width="100"/>](https://www.credly.com/badges/3e7efc4d-b104-4d90-a123-f19eebab1410/public_url)
 
 <h4>🤗 Hugging Face Agent Course Certificate</h4>
-<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/emJVwnJbP74QoDZPBrkeU.webp" width="400"/>
+<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/emJVwnJbP74QoDZPBrkeU.webp" width="200"/>
