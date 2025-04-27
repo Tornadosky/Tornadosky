@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ivan — AI/ML Engineer & Software Developer, passionate about building intelligent systems and scalable applications.</p>
+<p>I'm Ivan — AI/ML Engineer & Software Developer, passionate about building intelligent systems and scalable applications.</p>
 
 <h3>🛠️ Things I work with</h3>
 <p>
@@ -38,11 +38,9 @@
 
 ---
 
-<h3>📜 Certifications</h3>
-
-<h4>🛡️ AWS Certifications</h4>
+<h4>📜 AWS Certifications & Badges</h4>
 
 [<img src="https://raw.githubusercontent.com/Tornadosky/Tornadosky.github.io/main/doc/aws-certificate.png" width="100"/>](https://www.credly.com/badges/3e7efc4d-b104-4d90-a123-f19eebab1410/public_url)
+[<img src="https://raw.githubusercontent.com/Tornadosky/Tornadosky.github.io/main/doc/aws-educate-ml-deepracer.png" width="100"/>](https://www.credly.com/badges/81f2020f-7f95-4253-9c92-0470984bc10e/public_url)
+[<img src="https://raw.githubusercontent.com/Tornadosky/Tornadosky.github.io/main/doc/aws-educate-ml-foundations.png" width="100"/>](https://www.credly.com/badges/fe27cce7-6c0f-40d2-b979-0ea75b335608/public_url)
 
-<h4>🤗 Hugging Face Agent Course Certificate</h4>
-<img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/emJVwnJbP74QoDZPBrkeU.webp" width="100"/>
